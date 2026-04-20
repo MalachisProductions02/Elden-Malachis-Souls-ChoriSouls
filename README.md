@@ -139,8 +139,11 @@ Pasando a otros temas, el servidor cuenta con un límite de **20 personas** por 
 
 
 
+
+
 2. Teniendo el .zip descargado, dirígete dentro de CurseForge (después de iniciar sesión o haber creado una cuenta) al apartado de `import` dentro del perfil de juego `Minecraft/My Modpacks`.
 ![1](photos/1.jpeg)
+
 
 
 
@@ -151,14 +154,17 @@ Pasando a otros temas, el servidor cuenta con un límite de **20 personas** por 
 
 
 
+
 4. Les abrirá su explorador de archivos, ahi mismo deberán acceder a la carpeta donde se descargó el perfil .zip y lo seleccionan.
 ![3](photos/3.jpeg)
 
 
 
 
+
 5. Una vez sleccionado el perfil, los mandará directo al mismo y justo debajo del nombre les saldrá `Installing...`, solo esperen un ratito y todo estará listo.
 ![4](photos/4.jpeg)
+
 
 
 
@@ -170,14 +176,19 @@ Pasando a otros temas, el servidor cuenta con un límite de **20 personas** por 
 
 
 
+
 7. Deshabilitar la opción de `Allow content management for this profile` y recuerden ajustar la RAM a `8512MB` o mantenerlo en la opción de `Recommended by Author`.
 ![6](photos/6.jpeg)
 
 
 
 
+
 8. (Opcional) Dejamos la imagen por si gustan modificar el valor de RAM del perfil.
 ![7](photos/7.jpeg)
+
+
+
 
 
 ---
