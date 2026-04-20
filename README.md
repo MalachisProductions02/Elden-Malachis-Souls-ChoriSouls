@@ -189,16 +189,22 @@ Pasando a otros temas, el servidor cuenta con un límite de **20 personas** por 
 
 
 
-Para terminar, recuerden que todos los avisos/anuncios se estarán manejando en el canal de `『🚧』⁜𝓐𝓷𝓷𝓸𝓾𝓷𝓬𝓮𝓶𝓮𝓷𝓽⁜` dentro del servidor de *DoorlessCat2835* `🐈  𝓜𝓐𝓛𝓐𝓒𝓗𝓘𝓢 𝓕𝓐𝓜𝓘𝓛𝓨  🐈`
+Para terminar, recuerden que todos los avisos/anuncios se estarán manejando en el canal de [`『🚧』⁜𝓐𝓷𝓷𝓸𝓾𝓷𝓬𝓮𝓶𝓮𝓷𝓽⁜`](https://discord.gg/TRqCKv8g) dentro del servidor de *DoorlessCat2835* [`🐈  𝓜𝓐𝓛𝓐𝓒𝓗𝓘𝓢 𝓕𝓐𝓜𝓘𝓛𝓨  🐈`](https://discord.gg/JcDhfzw6)
 
 
 Diviértanse y sigan las reglas, les agradezco el tiempo y ¡mucha suerte!.
 
 |
+
 |
+
 |
+
 |
+
 |
+
 |
+
 Los quiere...
 _**MALACHIS PRODUCTIONS**_
