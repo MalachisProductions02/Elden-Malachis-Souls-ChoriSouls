@@ -13,7 +13,7 @@ Los Chorizos Enfierrados presentan:
 
 ![Mikudaioooh_1](https://s1.zerochan.net/Hatsune.Miku.600.3444891.jpg)
 
-Un nuevo servidor creado para nuestras comunidades ha sido creado con mucho cariño por parte de **YisusGamer79** y **DoorlessCat2835** al puro estilo de los juegos Souls-like y desafiante para que todos disfruten de este mundo maravilloso.
+Un nuevo servidor para nuestras comunidades ha sido creado con mucho cariño por parte de **YisusGamer79** y **DoorlessCat2835** al puro estilo de los juegos Souls-like y desafiante para que todos disfruten de este mundo maravilloso.
 
 Además, nos hemos tomado el tiempo de programar una moneda exclusiva para el servidor, por lo que ahora será algo sencillo conseguir materiales.
 
