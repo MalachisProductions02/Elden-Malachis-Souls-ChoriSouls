@@ -131,7 +131,7 @@ Pasando a otros temas, el servidor cuenta con un límite de **20 personas** por 
 # INSTALAR EL PERFIL EN CURSEFORGE
 
 
-![Mikudaiooooo_5](https://4kwallpapers.com/images/wallpapers/anime-girl-hatsune-3840x1080-15489.jpg)
+![Mikudaiooooo_5](https://c4.wallpaperflare.com/wallpaper/61/209/80/anime-vocaloid-hatsune-miku-anime-girls-wallpaper-preview.jpg)
 
 
 1. Para instalar el perfil de CurseForge, dirígete al apartado de `Releases` y **únicamente** descarga el archivo llamado `Elden.Malachis.Ring.-.Chorisouls.Enfierrados-1.0.zip` y espera a que se termine la descarga.
