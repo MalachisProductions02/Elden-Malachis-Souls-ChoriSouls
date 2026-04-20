@@ -125,6 +125,9 @@ El servidor estará activo **24/7** por lo que pueden entrar a la hora que guste
 Pasando a otros temas, el servidor cuenta con un límite de **20 personas** por lo que tomen esto en cuenta para entrar y estén atentos en la cantidad de personas que se encuentren en el server.
 
 
+IP del servidor (Minecraft Java): `malachissaga2.playminecraft.online`
+
+
 ---
 
 
