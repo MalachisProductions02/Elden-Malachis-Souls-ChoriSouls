@@ -9,7 +9,7 @@
 
 Los Chorizos Enfierrados presentan:
 
-## ELDEN MALACHIS SOULS: CHORISOULS
+## ELDEN MALACHIS SOULS
 
 ![Mikudaioooh_1](https://s1.zerochan.net/Hatsune.Miku.600.3444891.jpg)
 
